@@ -16,7 +16,7 @@ The page displays:
 
 - `index.html` – Main HTML file
 - `style.css` – Styling
-- `avatar-image.jpg` – Avatar image
+- `avatar_image.jpg` – Avatar image
   
 ## Screenshot
 
