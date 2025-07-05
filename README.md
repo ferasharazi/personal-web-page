@@ -9,8 +9,8 @@ The page displays:
 - My name and a Avatar image
 - A short introduction about me 
 - Quick access buttons to:
-  - [LinkedIn](https://www.linkedin.com/in/ferasharazi/)
-  - [GitHub](https://github.com/ferasharazi)
+  - LinkedIn
+  - GitHub
 
 ## Project Structure
 
